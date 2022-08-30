@@ -2,8 +2,8 @@ SEB Configurations
 ==================
 
 There are two different kind of SEB specific configurations that must be defined and be put in place to support e-assessments with
-SEB and SEB Server. The  is used to configure SEB with all needed information to securely connect to SEB Server
-and an Exam Configuration is used to configure SEB to access a running exam with SEB. The  is only needed at least
+SEB and SEB Server. The Connection configuration is used to configure SEB with all needed information to securely connect to SEB Server
+and an Exam Configuration is used to configure SEB to access a running exam with SEB. The Connection configuration is only needed at least
 once for an institution and must be deployed as start-configuration on a managed SEB setup or can be placed as a download link within
 an internal trusted server, that automatically loads within the SEB application and configures the SEB to connect to the SEB Server.
 
